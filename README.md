@@ -1,6 +1,6 @@
 # link breaker
 
-- https://github.com/petervandivier/hello-world/issues/4
+- petervandivier/hello-world#4
 
 Repository hosting services will often try to helpfully try to link to commits when they detect a hexadecimal string in a form that is meant to be markdown rendered. I've typically seen these done with 10 or 7 character prefixes. 
 
